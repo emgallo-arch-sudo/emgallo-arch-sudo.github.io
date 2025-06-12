@@ -1,0 +1,38 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.bancafideuram.fideuram.alfapb.beta",
+    "sha256_cert_fingerprints":
+    ["CB:2A:98:63:C7:FA:A0:94:44:62:81:2D:EB:BB:E5:4B:B4:17:89:5E:F4:8D:8C:8B:34:DE:06:25:5D:75:2E:64",
+	"69:1E:56:C5:F6:D0:56:8F:0F:F0:69:AF:51:7E:F5:2E:CC:EF:8F:21:E6:8A:9D:05:5E:A4:5D:8C:32:F5:A9:CC"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.bancafideuram.fideuram.alfapb",
+    "sha256_cert_fingerprints":
+    ["CB:2A:98:63:C7:FA:A0:94:44:62:81:2D:EB:BB:E5:4B:B4:17:89:5E:F4:8D:8C:8B:34:DE:06:25:5D:75:2E:64", 
+	"EE:B4:82:01:4E:5E:26:A3:AA:01:52:96:03:3A:65:8F:48:61:09:B5:96:68:38:81:58:C6:07:F5:3D:C2:EC:21"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.bancafideuram.fideuram.fmaCollaudo",
+    "sha256_cert_fingerprints":
+    ["F6:57:0A:E7:2E:C0:09:8D:E8:21:A4:E3:27:E8:90:F2:F3:64:3E:D0:B5:18:9B:C1:61:65:D9:0C:DF:06:8A:A5"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.bancafideuram.fideuram.fma",
+    "sha256_cert_fingerprints":
+    ["B4:C8:8C:1C:60:CF:8A:3F:B1:92:DF:78:8A:D5:A1:E6:67:12:24:B1:79:0D:97:E5:4D:49:05:C1:ED:92:4C:97"]
+  }
+}]

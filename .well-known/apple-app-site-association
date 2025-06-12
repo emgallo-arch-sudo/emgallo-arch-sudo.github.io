@@ -1,0 +1,31 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.alfapb.ios.beta",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.alfapb.ios",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.fmaCollaudo",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.fma",
+        "paths": [
+          "*"
+        ]
+      },
+    ]
+  }
+}
