@@ -35,7 +35,7 @@
     "sha256_cert_fingerprints":
     ["B4:C8:8C:1C:60:CF:8A:3F:B1:92:DF:78:8A:D5:A1:E6:67:12:24:B1:79:0D:97:E5:4D:49:05:C1:ED:92:4C:97"]
   }
-}],
+},
 {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
@@ -45,4 +45,4 @@
     ["10:78:8C:F6:60:55:A5:1B:BD:42:4B:0D:5B:81:70:F9:75:32:2F:74:E9:62:8F:85:08:19:04:FE:15:C1:AF:8B",
 	    "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
   }
-}
+}]
