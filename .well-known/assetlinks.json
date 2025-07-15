@@ -45,4 +45,22 @@
     "sha256_cert_fingerprints":
     ["B4:C8:8C:1C:60:CF:8A:3F:B1:92:DF:78:8A:D5:A1:E6:67:12:24:B1:79:0D:97:E5:4D:49:05:C1:ED:92:4C:97"]
   }
-}]
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.bancafideuram.EasyDocTest",
+    "sha256_cert_fingerprints":
+    ["24:23:E1:A6:88:7B:84:87:82:BA:EF:08:79:28:BA:26:6A:D2:FD:01:BC:E1:03:AD:05:DC:B1:39:6B:E1:1A:D1"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.bancafideuram.EasyDoc",
+    "sha256_cert_fingerprints":
+    ["32:C6:92:35:87:0B:F2:BC:43:93:9B:EF:A7:B5:58:00:C0:14:C8:B4:5A:C8:E5:1E:68:4E:25:F4:C4:E3:06:55"]
+  }
+},]
