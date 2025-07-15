@@ -26,6 +26,18 @@
           "*"
         ]
       },
+      {
+        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.smartrc.coll",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.smartrc",
+        "paths": [
+          "*"
+        ]
+      },
     ]
   }
 }
