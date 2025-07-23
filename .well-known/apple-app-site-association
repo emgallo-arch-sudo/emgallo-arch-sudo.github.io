@@ -38,6 +38,18 @@
           "*"
         ]
       },
+      {
+        "appID": "Y6S5XU2M4T.it.bancafideuram.EasyDocColl",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "Y6S5XU2M4T.it.bancafideuram.EasyDoc",
+        "paths": [
+          "*"
+        ]
+      }
     ]
   }
 }
