@@ -12,6 +12,15 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.fideuram.smartrc",
+    "sha256_cert_fingerprints":
+    ["83:1F:73:12:47:84:E5:D7:41:8C:B3:59:6C:20:7E:7A:80:FD:0E:89:50:22:C5:08:D8:40:18:9C:8E:4A:FE:1F"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "it.bancafideuram.fideuram.alfapb.beta",
     "sha256_cert_fingerprints":
     ["CB:2A:98:63:C7:FA:A0:94:44:62:81:2D:EB:BB:E5:4B:B4:17:89:5E:F4:8D:8C:8B:34:DE:06:25:5D:75:2E:64",
