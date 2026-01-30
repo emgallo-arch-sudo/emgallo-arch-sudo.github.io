@@ -17,15 +17,13 @@
       {
         "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.fmaCollaudo",
         "paths": [
-          "/fma/*",
-          "/fma
+          "*"
         ]
       },
       {
         "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.fma",
         "paths": [
-          "/fma/*",
-          "/fma
+          "*"
         ]
       },
       {
@@ -45,15 +43,13 @@
       {
         "appID": "Y6S5XU2M4T.it.bancafideuram.EasyDocColl",
         "paths": [
-          "/easydoc/*",
-          "/easydoc
+          "*"
         ]
       },
       {
         "appID": "Y6S5XU2M4T.it.bancafideuram.EasyDoc",
         "paths": [
-          "/easydoc/*",
-          "/easydoc
+          "*"
         ]
       }
     ]
