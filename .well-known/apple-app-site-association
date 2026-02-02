@@ -1,55 +1,60 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.alfapb.ios.beta",
-        "paths": [
-          "*"
+        "appIDs": ["Y6S5XU2M4T.it.bancafideuram.fideuram.fmaCollaudo"],
+        "components": [
+          {
+            "/": "/fmaColl/*",
+            "comment": "Matches FMA Coll paths"
+          }
         ]
       },
       {
-        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.alfapb.ios",
-        "paths": [
-          "*"
+        "appIDs": ["Y6S5XU2M4T.it.bancafideuram.fideuram.fma"],
+        "components": [
+          {
+            "/": "/fma/*",
+            "comment": "Matches FMA Prod paths"
+          }
         ]
       },
       {
-        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.fmaCollaudo",
-        "paths": [
-          "*"
+        "appIDs": ["Y6S5XU2M4T.it.bancafideuram.fideuram.smartrc.coll"],
+        "components": [
+          {
+            "/": "/smartpbColl/*",
+            "comment": "Matches SmartPB Coll paths"
+          }
         ]
       },
       {
-        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.fma",
-        "paths": [
-          "*"
+        "appIDs": ["Y6S5XU2M4T.it.bancafideuram.fideuram.smartrc"],
+        "components": [
+          {
+            "/": "/smartpb/*",
+            "comment": "Matches SmartPB Prod paths"
+          }
         ]
       },
       {
-        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.smartrc.coll",
-        "paths": [
-          "*"
+        "appIDs": ["Y6S5XU2M4T.it.bancafideuram.EasyDocColl"],
+        "components": [
+          {
+            "/": "/easydocColl/*",
+            "comment": "Matches EasyDoc Coll paths"
+          }
         ]
       },
       {
-        "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.smartrc",
-        "paths": [
-          "*"
+        "appIDs": ["Y6S5XU2M4T.it.bancafideuram.EasyDoc"],
+        "components": [
+          {
+            "/": "/easydoc/*",
+            "comment": "Matches EasyDoc Prod paths"
+          }
         ]
       },
-      {
-        "appID": "Y6S5XU2M4T.it.bancafideuram.EasyDocColl",
-        "paths": [
-          "*"
-        ]
-      },
-      {
-        "appID": "Y6S5XU2M4T.it.bancafideuram.EasyDoc",
-        "paths": [
-          "*"
-        ]
-      }
     ]
   }
 }
