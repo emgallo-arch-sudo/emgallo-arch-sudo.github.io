@@ -29,15 +29,13 @@
       {
         "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.smartrc.coll",
         "paths": [
-          "/smartpb/*",
-          "/smartpb
+          "*"
         ]
       },
       {
         "appID": "Y6S5XU2M4T.it.bancafideuram.fideuram.smartrc",
         "paths": [
-          "/smartpb/*",
-          "/smartpb
+          "*"
         ]
       },
       {
